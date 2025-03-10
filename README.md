@@ -6,25 +6,25 @@ This is a simple Rock-Paper-Scissors game implemented in Java. The game allows a
 
 # How to Play
 
-- The user is prompted to enter rock, paper, or scissor.
+The user is prompted to enter rock, paper, or scissor.
 <br>
-- The computer randomly selects one of the three choices.
+The computer randomly selects one of the three choices.
 <br>
-- The game compares the user's choice and the computer's choice to determine a winner.
+The game compares the user's choice and the computer's choice to determine a winner.
 <br>
-- The game continues until the user types exit.
+The game continues until the user types exit.
 <br>
-- The final score is displayed before exiting.
+The final score is displayed before exiting.
 
 # Rules
 
-- Rock beats Scissors
+Rock beats Scissors
 <br>
-- Paper beats Rock
+Paper beats Rock
 <br>
-- Scissors beats Paper
+Scissors beats Paper
 <br>
-- Same choices result in a draw
+Same choices result in a draw
 
 # Features
 
